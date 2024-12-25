@@ -11,11 +11,3 @@ HITIRC tasks
    :caption: Contents:
 
    task
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
